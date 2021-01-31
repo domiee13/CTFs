@@ -7,5 +7,5 @@ So, I use [CyberChef](https://gchq.github.io/CyberChef/) to decode this base64 s
 ![](solve.png)\
 And we have a flag xD
 ~~~
-Flag: picoCTF{l3arn_th3_r0p35}
+Flag: http://bulma.io/images/bulma-type-white.png
 ~~~
