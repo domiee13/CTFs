@@ -10,6 +10,6 @@ I use [Cipher Detect](https://www.boxentriq.com/code-breaking/cipher-identifier)
 So, I decode it and have a flag xD\
 `
 echo Q1RGe0ZsYWdneVdhZ2d5UmFnZ3l9 | base64 --decode
-
-CTF{FlaggyWaggyRaggy}  
+`
+`Flag: CTF{FlaggyWaggyRaggy}
 `
